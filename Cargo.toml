@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "game",
+    "agent"
+]
+
+resolver = "2"
